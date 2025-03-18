@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "PythagoreanCheck",
+      "request": "launch",
+      "mainClass": "PythagoreanCheck",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_2",
+      "request": "launch",
+      "mainClass": "Ques_2",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_3",
+      "request": "launch",
+      "mainClass": "Ques_3",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_4",
+      "request": "launch",
+      "mainClass": "Ques_4",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_5",
+      "request": "launch",
+      "mainClass": "Ques_5",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_6",
+      "request": "launch",
+      "mainClass": "Ques_6",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "Ques_7",
+      "request": "launch",
+      "mainClass": "Ques_7",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "ques_1",
+      "request": "launch",
+      "mainClass": "ques_1",
+      "projectName": "Assignment_d9df414d"
+    },
+    {
+      "type": "java",
+      "name": "ques_8",
+      "request": "launch",
+      "mainClass": "ques_8",
+      "projectName": "Assignment_d9df414d"
+    }
+  ]
+}
